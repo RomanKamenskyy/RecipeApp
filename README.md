@@ -5,7 +5,7 @@ The user can add the found recipe to CoreData favorites.
 ## How to build
 1. Clone the repository
 ```bash
-$ git clone https://github.com/RomanKamenskyy/Recipe.git
+$ git clone https://github.com/RomanKamenskyy/RecipeApp.git
 ```
 2.  Open the workspace in Xcode
 ```bash
