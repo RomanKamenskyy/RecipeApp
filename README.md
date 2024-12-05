@@ -1,4 +1,4 @@
-# GitHubFollowers
+# RecipeApp
 This project retrieves recipes using the spoonacular API. and allows the user to find the desired recipe with a list of ingredients, cooking process and a photo of the dish. 
 The user can add the found recipe to CoreData favorites.
 
